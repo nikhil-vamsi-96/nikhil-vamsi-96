@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Nikhil Vamsi
 
-### Data Analyst | SQL | Python | Power BI | Machine Learning | Business Intelligence
+### Data Analyst | SQL | Python | Power BI | Excel | Business Intelligence
 
-I build practical analytics projects that turn **raw data into insights, predictions, and business decisions**.
+I build practical data analytics projects using **SQL, Python, Excel, and Power BI** to transform raw data into **actionable insights, business KPIs, and data-driven recommendations**.
 
-🎓 **MCA Graduate** | 📊 Data Analytics | 🤖 Predictive Analytics | 💼 Business Intelligence
+🎓 **MCA Graduate** | 📊 Data Analytics | 💼 Business Intelligence | 🤖 Predictive Analytics
 
 <p align="left">
   <a href="https://github.com/nikhil-vamsi-96">GitHub</a> •
@@ -21,17 +21,15 @@ I work across the complete analytics lifecycle:
 ```text
 Business Problem
       ↓
-Data Preparation
+Data Preparation & Cleaning
       ↓
 SQL / Python Analysis
       ↓
 EDA & KPI Development
       ↓
-Dashboard / Visualization
+Dashboard & Visualization
       ↓
-Machine Learning
-      ↓
-Risk & Segmentation
+Segmentation / Predictive Analytics
       ↓
 Business Recommendations
 ```
@@ -40,12 +38,13 @@ Business Recommendations
 
 | Area | Skills |
 |---|---|
-| 🗄️ SQL | Joins, CTEs, subqueries, window functions, views, ranking, aggregations |
-| 🐍 Python | Pandas, NumPy, data cleaning, EDA, feature engineering |
-| 📊 BI | Power BI, dashboards, KPI reporting, DAX |
-| 🤖 ML | Classification, cross-validation, model evaluation, risk scoring |
-| 🎯 Customer Analytics | Churn prediction, RFM segmentation, retention analysis |
-| 💰 Business Analytics | Revenue analysis, segmentation, KPI analysis, recommendations |
+| 🗄️ SQL | Joins, CTEs, Subqueries, Window Functions, Aggregations, Views, Ranking |
+| 🐍 Python | Pandas, NumPy, Data Cleaning, EDA, Feature Engineering |
+| 📊 Visualization | Power BI, DAX, Matplotlib, Interactive Dashboards |
+| 📑 Excel | Data Cleaning, Pivot Tables, Lookup Functions, KPI Analysis |
+| 🤖 Machine Learning | Classification, Cross-Validation, Model Evaluation, Risk Scoring |
+| 🎯 Customer Analytics | Churn Analysis, RFM Segmentation, Retention Analysis |
+| 💰 Business Analytics | Revenue Analysis, KPI Development, Segmentation, Recommendations |
 | 🔧 Tools | Git, GitHub, SQLite, Jupyter, Chart.js |
 
 ---
@@ -54,11 +53,11 @@ Business Recommendations
 
 ## 1. 📉 Customer Churn & Retention Intelligence
 
-**Python • SQL • Machine Learning • HTML/CSS/JavaScript**
+**Python • SQL • Machine Learning • Customer Analytics**
 
-An end-to-end customer analytics system that predicts churn risk, identifies priority customers, estimates revenue exposure, and supports retention decisions.
+An end-to-end customer analytics system that predicts churn risk, identifies priority customers, estimates revenue exposure, and supports targeted retention decisions.
 
-### Key results
+### Key Results
 
 | KPI | Result |
 |---|---:|
@@ -72,7 +71,14 @@ An end-to-end customer analytics system that predicts churn risk, identifies pri
 | High + Critical Risk | **2,911 customers** |
 | Annual Revenue Exposure | **₹29.84 lakh** |
 
-**Demonstrates:** SQL analysis, EDA, feature engineering, model comparison, 5-fold cross-validation, hold-out evaluation, out-of-fold risk scoring, revenue-at-risk analysis, retention scenarios, and an interactive dashboard.
+### Business Impact
+
+- Identified **2,911 high and critical-risk customers** for prioritized retention action.
+- Estimated **₹29.84 lakh in annual revenue exposure** associated with churn risk.
+- Built customer-level risk scoring to support targeted interventions.
+- Developed retention scenarios connecting predictive analytics with business decisions.
+
+**Demonstrates:** SQL analysis, EDA, feature engineering, model comparison, 5-fold cross-validation, hold-out evaluation, out-of-fold risk scoring, revenue-at-risk analysis, and interactive analytics.
 
 ➡️ **[View Project](https://github.com/nikhil-vamsi-96/customer-churn-retention-intelligence)**
 
@@ -82,49 +88,71 @@ An end-to-end customer analytics system that predicts churn risk, identifies pri
 
 **SQL • SQLite • Business Analytics**
 
-Retail sales analysis covering store and department performance, ranking, CTEs, window functions, moving averages, and business KPIs.
+Retail sales analysis covering store and department performance, ranking, CTEs, window functions, moving averages, and business KPIs to identify sales patterns and performance drivers.
 
 ➡️ **[View Project](https://github.com/nikhil-vamsi-96/sql-sales-analysis)**
 
 ---
 
-## 3. 👥 E-commerce Customer Segmentation
-
-**SQL • RFM Analysis • Customer Analytics**
-
-Segments customers using Recency, Frequency, and Monetary value to identify champions, at-risk customers, customers needing attention, and churned segments.
-
-➡️ **[View Project](https://github.com/nikhil-vamsi-96/sql-customer-segmentation)**
-
----
-
-## 4. 👨‍💼 Employee Performance Analytics
+## 3. 👨‍💼 Employee Performance Analytics
 
 **Power BI • DAX • HR Analytics**
 
-Interactive HR dashboard analyzing employee performance, satisfaction, overtime, compensation, tenure, attrition, and flight risk.
+Interactive HR dashboard analyzing employee performance, satisfaction, overtime, compensation, tenure, attrition, and flight risk to support workforce decisions.
 
 ➡️ **[View Project](https://github.com/nikhil-vamsi-96/powerbi-employee-performance)**
 
 ---
 
-## 5. 📉 Telecom Customer Churn Analytics
+## 4. 👥 E-commerce Customer Segmentation
+
+**SQL • RFM Analysis • Customer Analytics**
+
+Segments customers using Recency, Frequency, and Monetary value to identify champions, at-risk customers, customers needing attention, and churned segments for targeted business strategies.
+
+➡️ **[View Project](https://github.com/nikhil-vamsi-96/sql-customer-segmentation)**
+
+---
+
+## 5. 🚗 CarDekho Market Trends Analysis
+
+**Data Analytics • Automotive Analytics • Business Insights**
+
+Analyzes used-car market data to uncover pricing and market trends and translate them into practical business insights.
+
+➡️ **[View Project](https://github.com/nikhil-vamsi-96/cardekho-market-trends-analysis)**
+
+---
+
+## 6. 🌾 Seasonal Agriculture Performance Analysis
+
+**Python • Pandas • EDA • Data Visualization**
+
+Analyzes seasonal agricultural performance using data cleaning, exploratory analysis, visualizations, and comparative insights to identify meaningful patterns across seasons.
+
+➡️ **[View Project](https://github.com/nikhil-vamsi-96/Seasonal-Agriculture-Performance-Analysis)**
+
+---
+
+## 7. 🌐 Website Traffic Analytics
+
+**Power BI • Marketing Analytics • KPI Analysis**
+
+Analyzes traffic trends, acquisition sources, engagement, and website performance to support data-driven marketing decisions.
+
+➡️ **[View Project](https://github.com/nikhil-vamsi-96/powerbi-website-traffic)**
+
+---
+
+## 📌 Additional Project
+
+### 📉 Telecom Customer Churn Analytics
 
 **Power BI • Customer Analytics • Business Intelligence**
 
 Dashboard-driven analysis of churn patterns across contracts, services, payment methods, and customer segments.
 
 ➡️ **[View Project](https://github.com/nikhil-vamsi-96/telecom-churn-analytics)**
-
----
-
-## 6. 🌐 Website Traffic Analytics
-
-**Power BI • Marketing Analytics • KPI Analysis**
-
-Analyzes traffic trends, acquisition sources, engagement, and website performance to support marketing decisions.
-
-➡️ **[View Project](https://github.com/nikhil-vamsi-96/powerbi-website-traffic)**
 
 ---
 
@@ -136,16 +164,15 @@ Analyzes traffic trends, acquisition sources, engagement, and website performanc
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### Machine Learning
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-3776AB?style=for-the-badge)
 
 ### Development & Tools
 
@@ -157,7 +184,7 @@ Analyzes traffic trends, acquisition sources, engagement, and website performanc
 
 # 📊 Portfolio
 
-My complete **Data Analytics Portfolio** includes SQL, Python, Power BI, customer analytics, sales analytics, HR analytics, marketing analytics, and machine-learning projects.
+My complete **Data Analytics Portfolio** includes projects across SQL, Python, Power BI, customer analytics, sales analytics, HR analytics, marketing analytics, and predictive analytics.
 
 ➡️ **[Explore My Data Portfolio](https://github.com/nikhil-vamsi-96/Data-Portfolio)**
 
@@ -198,10 +225,10 @@ I'm strengthening my skills in:
 
 💻 **GitHub:** [github.com/nikhil-vamsi-96](https://github.com/nikhil-vamsi-96)  
 📊 **Data Portfolio:** [github.com/nikhil-vamsi-96/Data-Portfolio](https://github.com/nikhil-vamsi-96/Data-Portfolio)  
-🔗 **LinkedIn:** [linkedin.com/in/nikhil-vamsi](https://linkedin.com/in/nikhil-vamsi)  
+🔗 **LinkedIn:** [linkedin.com/in/nikhil-vamsi](https://linkedin.com/in/nikhil-vamsi)
 
 ---
 
 <p align="center">
-  <strong>📊 Turning Data Into Insights, Predictions & Business Decisions</strong>
+  <strong>📊 Turning Data Into Insights & Business Decisions</strong>
 </p>
